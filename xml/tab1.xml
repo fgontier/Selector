@@ -453,31 +453,31 @@
           </product>	  
           <product type="Incandescent1000W">
           	<title>star</title>
-		  	<image>RIIO6.jpg</image>
+		  	<image>RPI06-1O.jpg</image>
           </product>
         <product type="Incandescent1500W">
           <title>star</title>
-		  <image>RIIO6.jpg</image>
+		  <image>RPI06-1L.jpg</image>
         </product>
         <product type="Incandescent2000W">
           <title>star</title>
-		  <image>RIIO6.jpg</image>
+		  <image>RPI06-1L.jpg</image>
         </product>
         <product type="MagneticLowVoltage600VA">
           <title>star</title>
-		  <image>RIIO6.jpg</image>
+		  <image>RPI06-1L.jpg</image>
         </product>
         <product type="MagneticLowVoltage1000VA">
           <title>star</title>
-		  <image>RIIO6.jpg</image>
+		  <image>6602.jpg</image>
         </product>
         <product type="MagneticLowVoltage1500VA">
           <title>star</title>
-		  <image>RIIO6.jpg</image>
+		  <image>RPI06-1L.jpg</image>
         </product>
         <product type="FanSpeedControl15AmpAndDimmer300W">
           <title>RTD01-10</title>
-		  <image>RIIO6.jpg</image>
+		  <image>RTD01-10.jpg</image>
           <popup>
             <multiLocationControl>Multi Location Control: Single Pole Only</multiLocationControl>
             <deviceColors>Z</deviceColors>
@@ -542,19 +542,19 @@
         </product>						
         <product type="Incandescent1000W">
           <title>star</title>
-		  <image>RIIO6.jpg</image>
+		  <image>6631-L.jpg</image>
         </product>
         <product type="Incandescent1500W">
           <title>star</title>
-		  <image>RIIO6.jpg</image>
+		  <image>6631-L.jpg</image>
         </product>
         <product type="Incandescent2000W">
           <title>star</title>
-		  <image>RIIO6.jpg</image>
+		  <image>6631-L.jpg</image>
         </product>
         <product type="LEDandCFL150W">
           <title>6674-10</title>
-		  <image>RIIO6.jpg</image> 
+		  <image>6674-10.jpg</image> 
           <popup>
             <multiLocationControl>Multi Location Control: Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
             <deviceColors>W, I, T, E, B</deviceColors>          
@@ -566,7 +566,7 @@
         </product>
         <product type="ElectronicLowVoltage300W">
           <title>6615-P</title>
-		  <image>RIIO6.jpg</image>
+		  <image>6633-PL.jpg</image>
           <popup>
             <multiLocationControl>Multi Location Control: Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
             <deviceColors>W,T</deviceColors>          
@@ -578,7 +578,7 @@
         </product>          
         <product type="MagneticLowVoltage300VADualSlideDimmer">
           <title>6628</title>
-		  <image>RIIO6.jpg</image>
+		  <image>6628.jpg</image>
           <popup>
             <multiLocationControl>Multi Location Control: Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
             <deviceColors>W, I, T</deviceColors>          
@@ -590,7 +590,7 @@
         </product>
         <product type="MagneticLowVoltage600VA">
           <title>6613-PL</title>
-		  <image>RIIO6.jpg</image>
+		  <image>6633-PL.jpg</image>
           <popup>
             <multiLocationControl>Multi Location Control: Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
             <deviceColors>W, I, T</deviceColors>          
@@ -602,11 +602,11 @@
         </product>
         <product type="MagneticLowVoltage1500VA">
           <title>star</title>
-		  <image>RIIO6.jpg</image>
+		  <image>6631-L.jpg</image>
         </product>  
         <product type="FanSpeedControlQuiet15Amp">
           <title>6629-3</title>
-		  <image>RIIO6.jpg</image>
+		  <image>6633-PL.jpg</image>
           <popup>
             <multiLocationControl>Multi Location Control: Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
             <deviceColors>W, I, T</deviceColors>
@@ -618,10 +618,10 @@
         </product>      
         <product type="FanSpeedControlVariable5Amp">
           <title>6627-1</title>
-		  <image>RIIO6.jpg</image>
+		  <image>6631-L.jpg</image>
           <popup>
             <multiLocationControl>Multi Location Control: 6627 is Single Pole Only. 6637 is Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
-            <deviceColors>6627 = W, I, B; 6637 = W, I, T</deviceColors>
+            <deviceColors>W, I, B</deviceColors>
             <neutralRequired>No</neutralRequired>
             <colorKits></colorKits>             
             <kitColors></kitColors>
@@ -630,10 +630,10 @@
         </product>
         <product type="FanSpeedControlVariable5Amp">
           <title>6637-P</title>
-		  <image>RIIO6.jpg</image>
+		  <image>6633-PL.jpg</image>
           <popup>
             <multiLocationControl>Multi Location Control: 6627 is Single Pole Only. 6637 is Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
-            <deviceColors>6627 = W, I, B; 6637 = W, I, T</deviceColors>
+            <deviceColors>W, I, T</deviceColors>
             <neutralRequired>No</neutralRequired>
             <colorKits></colorKits>             
             <kitColors></kitColors>
@@ -739,6 +739,7 @@
 	  
         <product type="Incandescent600W">
           <title>MDI06-1L</title>
+		  <image>MDI06-1L.jpg</image>		  
           <popup>
             <multiLocationControl>Multi Location Control: Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with MS00R remote</multiLocationControl>
             <deviceColors>W, I</deviceColors>         
@@ -750,6 +751,7 @@
         </product>      
         <product type="Incandescent1000W">
           <title>MDI10-1L</title>
+		  <image>MDI10-1L.jpg</image>		  		  
           <popup>
             <multiLocationControl>Multi Location Control: Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with MS00R remote</multiLocationControl>
             <deviceColors>W, I</deviceColors>
@@ -761,12 +763,15 @@
         </product>
         <product type="Incandescent1500W">
           <title>star</title>
+		  <image>MDI10-1L.jpg</image>		  		  		  
         </product>
         <product type="Incandescent2000W">
           <title>star</title>
+		  <image>MDI10-1L.jpg</image>		  		  		  		  
         </product>
         <product type="ElectronicLowVoltage350VA">
           <title>MDE03-1LW</title>
+		 <image>MDE03-1LW.jpg</image>
           <popup>
             <multiLocationControl>Multi Location Control: Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with MSE0R remote</multiLocationControl>
             <deviceColors>W</deviceColors>
@@ -778,6 +783,7 @@
         </product>
         <product type="MagneticLowVoltage600VA">
           <title>MDM06-1L</title>
+		 <image>MDM06-1L.jpg</image>		  
           <popup>
             <multiLocationControl>Multi Location Control: Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with MS00R remote</multiLocationControl>
             <deviceColors>W, I</deviceColors>
@@ -789,6 +795,7 @@
         </product>
         <product type="MagneticLowVoltage1000VA">
           <title>MDM10-1L</title>
+		 <image>MDM10-1L.jpg</image>		  
           <popup>
             <multiLocationControl>Multi Location Control: Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with MS00R remote</multiLocationControl>
             <deviceColors>W, I</deviceColors>
@@ -800,9 +807,11 @@
         </product>
         <product type="MagneticLowVoltage1500VA">
           <title>star</title>
+		 <image>MDM10-1L.jpg</image>		  		  
         </product>  
         <product type="FanSpeedControlQuiet15Amp">
           <title>MDF01-1L</title>
+		 <image>MDF01-1L.jpg</image>		  		  		  
           <popup>
             <multiLocationControl>Multi Location Control: Digital circuitry provides Single Pole, 3-way or Multi-Location control with MSE0R remote</multiLocationControl>
             <deviceColors>W</deviceColors>
@@ -872,7 +881,7 @@
       <specsRating>
 	    <spec type="title">Incandescent 120V</spec>
 		<spec type="Incandescent600W">600W</spec>
-        <spec type="Incandescent1000W">100W</spec>
+        <spec type="Incandescent1000W">1000W</spec>
         <spec type="Incandescent1500W">1500W</spec>
         <spec type="Incandescent2000W">2000W</spec>
 		<spec type="spacer"></spec>
