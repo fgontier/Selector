@@ -10,7 +10,7 @@
           
           <product type="Switch15A120VAC">
             <title>VPS15-1L</title>
-			<image>VRS15-1L.jpg</image>
+			<image>VRS15.jpg</image>
             <popup>
               <multiLocationControl>Non-dimming electronic switch provides Single Pole, 3-way or Multi-Location control with VP0SR-1L or VP0SR-10 remotes</multiLocationControl>
               <deviceColors>Z</deviceColors>
@@ -90,12 +90,40 @@
         
         <productCategory category="Vizia RF +">
 		
-          <product type="TODO">
-            <title>VRMX1-1</title>
-			<image>VPIO6.jpg</image>
+          <product type="Switch5AIncandescentOnly">
+            <title>VRS05-1L</title>
+			<image>VRS15.jpg</image>
             <popup>
-              <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VRCZ1-1L, VP00R-1L or VP00R-10 remotes</multiLocationControl>
+              <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location control with VRCS1-1L, VP0SR-1L or VP0SR-10 remotes
+</multiLocationControl>
               <deviceColors>Z</deviceColors>
+              <neutralRequired>No</neutralRequired>
+              <colorKits>VPKIT-MS</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="Switch15A120VAC">
+            <title>VRS15-1L</title>
+			<image>VRS15.jpg</image>
+            <popup>
+              <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location control with VRCS1-1L, VP0SR-1L or VP0SR-10 remotes
+</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VPKIT-MS</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="DimmerRemoteMatching120VAC">
+            <title>VP00R-1L</title>
+			<image>VPI06.jpg</image>
+            <popup>
+              <multiLocationControl>Non-RF Matching Remote Dimmer for 3-way or up to 5 locations</multiLocationControl>
+              <deviceColors>Z, W</deviceColors>
               <neutralRequired>Yes</neutralRequired>
               <colorKits>VPKIT-MD</colorKits>             
               <kitColors>W, I, T, G, E, B, R</kitColors>
@@ -103,16 +131,253 @@
             </popup>            
           </product>
 		
+          <product type="DimmerRemoteCoordinating120VAC">
+            <title>VP00R-10</title>
+			<image>VP00R-10.jpg</image>
+            <popup>
+              <multiLocationControl>Non-RF Coordinating Remote Dimmer for 3-way or up to 10 locations</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes, except when used with incandescent or magnetic low voltage devices</neutralRequired>
+              <colorKits>VPKIT-CD</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>		  
 		
+          <product type="SwitchRemoteMatching120VAC">
+            <title>VP0SR-1L</title>
+			<image>VP0SR-1L.jpg</image>
+            <popup>
+              <multiLocationControl>Non-RF Matching Remote Switch for 3-way or up to 5 locations</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VPKIT-MS</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>  
 		
+          <product type="SwitchRemoteCoordinating120VAC">
+            <title>VP0SR-10</title>
+			<image>VP0SR-10.jpg</image>
+            <popup>
+              <multiLocationControl>Non-RF Coordinating Remote Switch for 3-way or up to 10 locations</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes, except when used with incandescent or magnetic low voltage devices</neutralRequired>
+              <colorKits>VPKIT-CS</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>	  
 		
+          <product type="ApplianceModule15A120VAC">
+            <title>VRP15-1L</title>
+			<image>VRP15-1L.jpg</image>
+            <popup>
+			  <copy>Supports beaming which is the ability to communicate with battery operated frequently listening nodes (FLiRS) such as door locks and sensors</copy>
+              <multiLocationControl></multiLocationControl>
+              <deviceColors></deviceColors>
+              <neutralRequired></neutralRequired>
+              <colorKits></colorKits>             
+              <kitColors></kitColors>
+              <wallplatesType></wallplatesType>             
+            </popup>            
+          </product>
 		
+          <product type="LampDimmingModule300W120VAC">
+            <title>VRP03-1L</title>
+			<image>VRP03-1L.jpg</image>
+            <popup>
+			  <copy>Supports beaming which is the ability to communicate with battery operated frequently listening nodes (FLiRS) such as door locks and sensors</copy>
+              <multiLocationControl></multiLocationControl>
+              <deviceColors></deviceColors>
+              <neutralRequired></neutralRequired>
+              <colorKits></colorKits>             
+              <kitColors></kitColors>
+              <wallplatesType></wallplatesType>             
+            </popup>            
+          </product>
 		
+          <product type="RS232Interface">
+            <title>VRC0P-1L</title>
+			<image>VRC0P-1L.jpg</image>
+            <popup>
+			  <copy>Supports beaming which is the ability to communicate with battery operated frequently listening nodes (FLiRS) such as door locks and sensors. Reflashable for firmware updates.</copy>
+              <multiLocationControl></multiLocationControl>
+              <deviceColors></deviceColors>
+              <neutralRequired></neutralRequired>
+              <colorKits></colorKits>             
+              <kitColors></kitColors>
+              <wallplatesType></wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="Receptacle1800W1800VA">
+            <title>VRR15-1L</title>
+			<image>VRR15-1L.jpg</image>
+            <popup>
+              <multiLocationControl>½ HP Split Tamper-Resistant Duplex Wall Receptacle with Top Outlet Scene Capable
+Switch for Single Pole Applications</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired></neutralRequired>
+              <colorKits>VRKIT-R0</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="4ButtonSceneController120VAC">
+            <title>VRCS4-M0</title>
+			<image>VRCS4-M0.jpg</image>
+            <popup>
+              <multiLocationControl>Scene Controller for Multi-Location Scene Control with IR Remote Capability</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VPKIT-S4 Button Label Kits: VPSLB-S4 Custom Engraved Buttons: Visit www.leviton.com/buttons to download order form</colorKits>  
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>		  		  
+		
+          <product type="4ButtonSceneComboController1800W1800VA">
+            <title>VRCS4-MR</title>
+			<image>VRCS4-MR.jpg</image>
+            <popup>
+              <multiLocationControl>Scene Controller with Single Pole Scene Capable Switch for Multi-Location Scene Control with IR Remote Capability</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VPKIT-S4 Button Label Kits: VPSLB-S4 Custom Engraved Buttons: Visit www.leviton.com/buttons to download order form</colorKits>
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>		  		  
+		
+          <product type="4ButtonZoneController120VAC">
+            <title>VRCZ4-M0</title>
+			<image>VRCZ4-M0.jpg</image>
+            <popup>
+              <multiLocationControl>Scene Controller for Multi-Location Control with IR Remote Capability</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VPKIT-Z4 Button Label Kits: VPZLB-Z4 Custom Engraved Buttons: Visit www.leviton.com/buttons to download order form</colorKits>
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="4ButtonZoneController1800W1800VA">
+            <title>VRCZ4-MR</title>
+			<image>VRCZ4-MR.jpg</image>
+            <popup>
+              <multiLocationControl>Zone Controller with Single Pole Scene Capable Switch for Multi-Location Zone Control with IR Remote Capability</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VPKIT-Z4 Button Label Kits: VPZLB-Z4 Custom Engraved Buttons: Visit www.leviton.com/buttons to download order form</colorKits>
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="2ButtonSceneController1000W1000VA">
+            <title>VRCS2-MR</title>
+			<image>VRCS2-MR.jpg</image>
+            <popup>
+              <multiLocationControl>Scene Controller with 2 Single Pole Scene Capable Switches</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VRKIT-DS</colorKits>
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="1ButtonSceneController120VAC">
+            <title>VRCS1-1L</title>
+			<image>VRCS1-1L.jpg</image>
+            <popup>
+              <multiLocationControl>Controller/Virtual Switch Remote 3-Way RF Controller for Multi-Location Control</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VPKIT-MS</colorKits>
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="1ButtonZoneController120VAC">
+            <title>VRCZ1-1L</title>
+			<image>VRCZ1-1L.jpg</image>
+            <popup>
+              <multiLocationControl>Controller/Virtual Dimming Remote 3-Way RF Controller for Multi-Location Control</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VPKIT-MD</colorKits>
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="PrimaryRemote">
+            <title>VRCPG-0SG</title>
+			<image>VRCPG-0SG.jpg</image>
+            <popup>
+			  <copy>Remote Controller Programmer with Timer</copy>
+              <multiLocationControl></multiLocationControl>
+              <deviceColors></deviceColors>
+              <neutralRequired></neutralRequired>
+              <colorKits></colorKits>
+              <kitColors></kitColors>
+              <wallplatesType></wallplatesType>             
+            </popup>            
+          </product>	  
+		
+          <product type="PrimaryRemote">
+            <title>VRCPG-BSG</title>
+			<image>VRCPG-0SG.jpg</image>
+            <popup>
+			  <copy>Remote Controller Programmer</copy>
+              <multiLocationControl></multiLocationControl>
+              <deviceColors></deviceColors>
+              <neutralRequired></neutralRequired>
+              <colorKits></colorKits>
+              <kitColors></kitColors>
+              <wallplatesType></wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="IRRemote">
+            <title>VRMR1-0SG</title>
+			<image>VRMR1-0SG.jpg</image>
+            <popup>
+			  <copy>IR Handheld Remote Controller for Zone and Scene Control</copy>
+              <multiLocationControl></multiLocationControl>
+              <deviceColors></deviceColors>
+              <neutralRequired></neutralRequired>
+              <colorKits></colorKits>
+              <kitColors></kitColors>
+              <wallplatesType></wallplatesType>             
+            </popup>            
+          </product>		  
+		
+          <product type="InstallerToolSoftwareUSB">
+            <title>VRUSB-000</title>
+			<image>VRUSB-000.jpg</image>
+            <popup>
+			  <copy>System Programming: Download RF Installer Tool from www.leviton.com/rfinstallertool</copy>
+              <multiLocationControl></multiLocationControl>
+              <deviceColors></deviceColors>
+              <neutralRequired></neutralRequired>
+              <colorKits></colorKits>
+              <kitColors></kitColors>
+              <wallplatesType></wallplatesType>             
+            </popup>            
+          </product>		  
+
         </productCategory>
 
         <productCategory category="True Touch">
 		
-          <product type="DimmerRemoteMatching120VAC">
+          <product type="DimmerRemoteCoordinating120VAC">
             <title>TT00R-10</title>
 			<image>TTI06.jpg</image>
             <popup>
@@ -129,7 +394,7 @@
 
         <productCategory category="Mural">
 		
-          <product type="DimmerRemoteMatching120VAC">
+          <product type="DimmerRemoteCoordinating120VAC">
             <title>MS00R-10</title>
 			<image>MS00R-10.jpg</image>
             <popup>
@@ -163,24 +428,24 @@
        	<spec type="ApplianceModule15A120VAC">Appliance Module 15A 120VAC</spec>
        	<spec type="LampDimmingModule300W120VAC">Lamp Dimming Module 300W 120VAC</spec>	
        	<spec type="RS232Interface">RS232 Interface</spec>
-       	<spec type="Receptacle1800W/1800VA">Receptacle 1800W/1800VA</spec>	
+       	<spec type="Receptacle1800W1800VA">Receptacle 1800W/1800VA</spec>	
 		<spec type="spacer"></spec>
         <spec type="title">4-Button</spec>
        	<spec type="4ButtonSceneController120VAC">Scene Controller 120VAC</spec>		
-       	<spec type="4ButtonSceneComboController1800W/1800VA">Scene Combo Controller 1800W/1800VA, ½ HPC</spec>		
+       	<spec type="4ButtonSceneComboController1800W1800VA">Scene Combo Controller 1800W/1800VA, ½ HPC</spec>		
        	<spec type="4ButtonZoneController120VAC">Zone Controller 120VAC</spec>		
-       	<spec type="4ButtonZoneController1800W/1800VA">Zone Combo Controller 1800W/1800VA, ½ HPC</spec>						
+       	<spec type="4ButtonZoneController1800W1800VA">Zone Combo Controller 1800W/1800VA, ½ HPC</spec>						
 		<spec type="spacer"></spec>
         <spec type="title">2-Button</spec>
-       	<spec type="2ButtonSceneController1000W/1000VA">Scene Controller 1000W/1000VA, ¼ HP per switch</spec>
+       	<spec type="2ButtonSceneController1000W1000VA">Scene Controller 1000W/1000VA, ¼ HP per switch</spec>
 		<spec type="spacer"></spec>				
         <spec type="title">1-Button</spec>
        	<spec type="1ButtonSceneController120VAC">Scene Controller 120VAC</spec>						
 		<spec type="1ButtonZoneController120VAC">Zone Controller 120VAC</spec>				
 		<spec type="spacer"></spec>
-       	<spec type="Primary Remote">Primary Remote</spec>		
+       	<spec type="PrimaryRemote">Primary Remote</spec>		
        	<spec type="IRRemote">IR Remote</spec>		
-       	<spec type="InstallerToolSoftware&USB">Installer Tool Software & USB</spec>							
+       	<spec type="InstallerToolSoftwareUSB">Installer Tool Software and USB</spec>							
       </specsRating> 
       
     </tab>  
