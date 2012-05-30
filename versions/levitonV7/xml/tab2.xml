@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<leviton>
+  <tabs>
+    <tab title="Fluorescent">
+
+      <products>
+
+        <productCategory category="Vizia +®">
+          
+          <product type="FluorescentElectronicMark10Powerline120V1000VA">
+            <title>VPX10-1L</title>
+			<image>VPI06.jpg</image>
+            <popup>
+              <multiLocationControl>Multi Location Control: Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VP00R-1L or VP00R-10 remotes</multiLocationControl>
+              <deviceColors>Z, T</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VPKIT-MD, VPKIT-CD</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		  
+          <product type="FluorescentElectronicMark10Powerline120V1500VA">
+            <title>star</title>
+			<image>VPI06.jpg</image>
+          </product>
+		  
+		  <product type="FluorescentElectronicMark10Powerline277V1200VA">
+            <title>VPX12-7L</title>
+			<image>VPI06.jpg</image>
+            <popup>
+              <multiLocationControl>Multi Location Control: Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VP00R-1L or VP00R-10 remotes</multiLocationControl>
+              <deviceColors>Z, T</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VPKIT-MD, VPKIT-CD</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>  
+		    
+          <product type="FluorescentElectronicMark10Powerline277V2000VA">
+            <title>star</title>
+			<image>VPI06.jpg</image>
+          </product>
+		  
+          <product type="FluorescentElectronicMark10Powerline277V3000VA">
+            <title>star</title>
+			<image>VPI06.jpg</image>
+          </product>
+		     
+          <product type="FluorescentDimmerforHiLumeorEco108A120VAC">
+            <title>VPH08-1L</title>
+			<image>VPI06.jpg</image>
+            <popup>
+              <multiLocationControl>Multi Location Control: Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VP00R-1L or VP00R-10 remotess</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VPKIT-MD, VPKIT-CD</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		  
+          <product type="FluorescentDimmerforHiLumeorEco106A277VAC">
+            <title>VPH06-7L</title>
+			<image>VPI06.jpg</image>
+            <popup>
+              <multiLocationControl>Multi Location Control: Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VP00R-1L or VP00R-10 remotes</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VPKIT-MD, VPKIT-CD</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>
+          </product>
+
+        </productCategory>  
+        
+        <productCategory category="Vizia RF +®">
+		
+          <product type="FluorescentElectronicMark10Powerline120V1000VA">
+            <title>VRMX1-1</title>
+			<image>VPI06.jpg</image>
+            <popup>
+              <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VRCZ1-1L, VP00R-1L or VP00R-10 remotes</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>VPKIT-MD</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		
+        </productCategory>
+
+        <productCategory category="IllumaTech Slide®">
+		
+          <product type="FluorescentElectronicMark10Powerline120V600VA">
+            <title>IPX06-10</title>
+			<image>IPL06.jpg</image>
+            <popup>
+              <multiLocationControl>Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>IPKIT-0N</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="FluorescentElectronicMark10Powerline120V1000VA">
+            <title>IPX10-10</title>
+			<image>IPL06.jpg</image>
+            <popup>
+              <multiLocationControl>Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>IPKIT-0N</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="FluorescentElectronicMark10Powerline227V600VA">
+            <title>IPX06-70</title>
+			<image>IPL06.jpg</image>
+            <popup>
+              <multiLocationControl>Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>IPKIT-0N</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>		  
+		
+          <product type="FluorescentElectronicMark10Powerline277V1200VA">
+            <title>IPX12-70</title>
+			<image>IPL06.jpg</image>
+            <popup>
+              <multiLocationControl>Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>IPKIT-0N</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="FluorescentElectronicMark10Powerline277V2000VA">
+            <title>star</title>
+			<image>IPL06.jpg</image>           
+          </product>
+		
+          <product type="FluorescentElectronic010VDCMark7orQuicktronicHelios8A120V1200VA">
+            <title>IP710-DL</title>
+			<image>IPL06.jpg</image>
+            <popup>
+              <multiLocationControl>Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>IPKIT-00</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		
+          <product type="FluorescentElectronic010VDCMark7orQuicktronicHelios277V1500VA">
+            <title>IP710-DL</title>
+			<image>IPL06.jpg</image>
+            <popup>
+              <multiLocationControl>Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
+              <deviceColors>Z</deviceColors>
+              <neutralRequired>Yes</neutralRequired>
+              <colorKits>IPKIT-00</colorKits>             
+              <kitColors>W, I, T, G, E, B, R</kitColors>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>
+		  		  		  		  		  		
+        </productCategory>
+
+        <productCategory category="SureSlide®">
+		
+          <product type="FluorescentElectronicMark10Powerline120V500W">
+            <title>6668</title>
+			<image>6631-L.jpg</image>
+            <popup>
+              <multiLocationControl>Single Pole Only</multiLocationControl>
+              <deviceColors>W, I</deviceColors>
+              <neutralRequired>No</neutralRequired>
+              <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
+            </popup>            
+          </product>		  
+		  		  		  		
+        </productCategory>
+
+      </products>
+        
+      <specsRating>
+      	<spec type="title">Fluorescent Electronic Mark 10® Powerline 120V</spec>
+        <spec type="FluorescentElectronicMark10Powerline120V500W">500W</spec>
+        <spec type="FluorescentElectronicMark10Powerline120V600VA">600VA</spec>		
+        <spec type="FluorescentElectronicMark10Powerline120V1000VA">1000VA</spec>		
+        <spec type="FluorescentElectronicMark10Powerline120V1500VA">1500VA</spec>
+		<spec type="spacer"></spec>
+        <spec type="title">Fluorescent Electronic Mark 10® Powerline 277V</spec>
+        <spec type="FluorescentElectronicMark10Powerline227V600VA">600VA</spec>
+        <spec type="FluorescentElectronicMark10Powerline277V1200VA">1200VA</spec>          
+        <spec type="FluorescentElectronicMark10Powerline277V2000VA">2000VA</spec>
+        <spec type="FluorescentElectronicMark10Powerline277V3000VA">3000VA</spec> 
+		<spec type="spacer"></spec>                 
+        <spec type="title">Fluorescent Electronic 0-10VDC Mark 7® or Quicktronic® Helios™</spec>
+        <spec type="FluorescentElectronic010VDCMark7orQuicktronicHelios8A120V1200VA">120V 1200VA</spec>
+        <spec type="FluorescentElectronic010VDCMark7orQuicktronicHelios277V1500VA">277V 1500VA</spec>
+		<spec type="spacer"></spec>
+        <spec type="title">Fluorescent Dimmer for Hi-Lume® or Eco-10</spec>
+       	<spec type="FluorescentDimmerforHiLumeorEco108A120VAC">8A-120VAC</spec>
+        <spec type="FluorescentDimmerforHiLumeorEco106A277VAC">6A-277VAC</spec>
+      </specsRating> 
+      
+    </tab>  
+  </tabs> 
+</leviton>
