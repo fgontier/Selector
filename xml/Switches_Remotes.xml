@@ -198,10 +198,9 @@
             <title>VRR15-1L</title>
 			<image>VRR15-1L.jpg</image>
             <popup>
-              <multiLocationControl>½ HP Split Tamper-Resistant Duplex Wall Receptacle with Top Outlet Scene Capable
+              <multiLocationControl>1/2 HP Split Tamper-Resistant Duplex Wall Receptacle with Top Outlet Scene Capable
 Switch for Single Pole Applications</multiLocationControl>
               <deviceColors>Z</deviceColors>
-              <neutralRequired></neutralRequired>
               <colorKits>VRKIT-R0</colorKits>             
               <kitColors>W, I, T, G, E, B, R</kitColors>
               <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
@@ -215,7 +214,8 @@ Switch for Single Pole Applications</multiLocationControl>
               <multiLocationControl>Scene Controller for Multi-Location Scene Control with IR Remote Capability</multiLocationControl>
               <deviceColors>Z</deviceColors>
               <neutralRequired>Yes</neutralRequired>
-              <colorKits>VPKIT-S4 Button Label Kits: VPSLB-S4 Custom Engraved Buttons: Visit www.leviton.com/buttons to download order form</colorKits>  
+              <colorKits>VPKIT-S4</colorKits>
+			  <buttonLabelKits>VPSLB-S4</buttonLabelKits>
               <kitColors>W, I, T, G, E, B, R</kitColors>
               <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
             </popup>            
@@ -228,7 +228,8 @@ Switch for Single Pole Applications</multiLocationControl>
               <multiLocationControl>Scene Controller with Single Pole Scene Capable Switch for Multi-Location Scene Control with IR Remote Capability</multiLocationControl>
               <deviceColors>Z</deviceColors>
               <neutralRequired>Yes</neutralRequired>
-              <colorKits>VPKIT-S4 Button Label Kits: VPSLB-S4 Custom Engraved Buttons: Visit www.leviton.com/buttons to download order form</colorKits>
+              <colorKits>VPKIT-S4</colorKits>
+			  <buttonLabelKits>VPSLB-S4</buttonLabelKits>
               <kitColors>W, I, T, G, E, B, R</kitColors>
               <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
             </popup>            
@@ -241,7 +242,8 @@ Switch for Single Pole Applications</multiLocationControl>
               <multiLocationControl>Scene Controller for Multi-Location Control with IR Remote Capability</multiLocationControl>
               <deviceColors>Z</deviceColors>
               <neutralRequired>Yes</neutralRequired>
-              <colorKits>VPKIT-Z4 Button Label Kits: VPZLB-Z4 Custom Engraved Buttons: Visit www.leviton.com/buttons to download order form</colorKits>
+              <colorKits>VPKIT-Z4</colorKits>
+			  <buttonLabelKits>VPZLB-Z4</buttonLabelKits>
               <kitColors>W, I, T, G, E, B, R</kitColors>
               <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
             </popup>            
@@ -254,7 +256,8 @@ Switch for Single Pole Applications</multiLocationControl>
               <multiLocationControl>Zone Controller with Single Pole Scene Capable Switch for Multi-Location Zone Control with IR Remote Capability</multiLocationControl>
               <deviceColors>Z</deviceColors>
               <neutralRequired>Yes</neutralRequired>
-              <colorKits>VPKIT-Z4 Button Label Kits: VPZLB-Z4 Custom Engraved Buttons: Visit www.leviton.com/buttons to download order form</colorKits>
+              <colorKits>VPKIT-Z4</colorKits>
+			  <buttonLabelKits>VPZLB-Z4</buttonLabelKits>
               <kitColors>W, I, T, G, E, B, R</kitColors>
               <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
             </popup>            
@@ -370,16 +373,17 @@ Switch for Single Pole Applications</multiLocationControl>
       </products>
         
       <specsRating>
-      	<spec type="title">Switch</spec>
+      	<spec type="title">Switches</spec>
         <spec type="Switch5AIncandescentOnly">5A Incandescent Only</spec>
-        <spec type="Switch15A120VAC">15A-120VAC</spec>		
+        <spec type="Switch15A120VAC">15A-120VAC</spec>
+       	<spec type="Receptacle1800W1800VA">Receptacle 1800W/1800VA</spec>			
 		<spec type="spacer"></spec>
-        <spec type="title">Dimmer Remote</spec>
+        <spec type="title">Dimmer Remotes</spec>
         <spec type="DimmerRemoteMatching120VAC">Matching 120VAC</spec>
         <spec type="DimmerRemoteMatching277VAC">Matching 277VAC</spec> 
         <spec type="DimmerRemoteCoordinating120VAC">Coordinating 120VAC</spec>
 		<spec type="spacer"></spec>                 
-        <spec type="title">Switch Remote</spec>
+        <spec type="title">Switch Remotes</spec>
         <spec type="SwitchRemoteMatching120VAC">Matching 120VAC</spec>
         <spec type="SwitchRemoteCoordinating120VAC">Coordinating 120VAC</spec>
 		<spec type="spacer"></spec>
@@ -387,22 +391,21 @@ Switch for Single Pole Applications</multiLocationControl>
        	<spec type="ApplianceModule15A120VAC">Appliance Module 15A 120VAC</spec>
        	<spec type="LampDimmingModule300W120VAC">Lamp Dimming Module 300W 120VAC</spec>	
        	<spec type="RS232Interface">RS232 Interface</spec>
-       	<spec type="Receptacle1800W1800VA">Receptacle 1800W/1800VA</spec>	
 		<spec type="spacer"></spec>
-        <spec type="title">4-Button Controlers</spec>
-       	<spec type="4ButtonSceneController120VAC">Scene Controller 120VAC</spec>		
+        <spec type="title">4-Button Controllers</spec>
+       	<spec type="4ButtonSceneController120VAC">Scene Controller 120VAC</spec>
+       	<spec type="4ButtonZoneController120VAC">Zone Controller 120VAC</spec>						
        	<spec type="4ButtonSceneComboController1800W1800VA">Scene Combo Controller 1800W/1800VA, ½ HPC</spec>		
-       	<spec type="4ButtonZoneController120VAC">Zone Controller 120VAC</spec>		
        	<spec type="4ButtonZoneController1800W1800VA">Zone Combo Controller 1800W/1800VA, ½ HPC</spec>						
 		<spec type="spacer"></spec>
-        <spec type="title">2-Button Controlers</spec>
+        <spec type="title">2-Button Controllers</spec>
        	<spec type="2ButtonSceneController1000W1000VA">Scene Controller 1000W/1000VA, ¼ HP per switch</spec>
 		<spec type="spacer"></spec>				
-        <spec type="title">1-Button Controlers</spec>
+        <spec type="title">1-Button Controllers</spec>
        	<spec type="1ButtonSceneController120VAC">Scene Controller 120VAC</spec>						
 		<spec type="1ButtonZoneController120VAC">Zone Controller 120VAC</spec>				
 		<spec type="spacer"></spec>
-        <spec type="title">Programmming and Handheld Remotes</spec>		
+        <spec type="title">Programming and Handheld Remotes</spec>		
        	<spec type="PrimaryRemote">Primary Remote</spec>		
        	<spec type="IRRemote">IR Remote</spec>		
        	<spec type="InstallerToolSoftwareUSB">Installer Tool Software and USB</spec>							

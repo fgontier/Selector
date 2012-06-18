@@ -554,8 +554,8 @@
           <title>6628</title>
 		  <image>6628.jpg</image>
           <popup>
-            <multiLocationControl>Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
-            <deviceColors>W, I, T</deviceColors>          
+            <multiLocationControl>Two Single Pole Loads</multiLocationControl>
+            <deviceColors>W, I</deviceColors>          
             <neutralRequired>No</neutralRequired>
             <wallplatesType>Decora screwless or Decora standard, sold separately </wallplatesType>             
           </popup>
