@@ -13,7 +13,7 @@
 			<image>VPI06.jpg</image>			
             <popup>
               <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VP00R-1L or VP00R-10 remotes</multiLocationControl>
-              <deviceColors>Z, W</deviceColors>
+              <deviceColors>Z, W, T</deviceColors>
               <neutralRequired>No</neutralRequired>
               <colorKits>VPKIT-MD, VPKIT-CD</colorKits>             
               <kitColors>W, I, T, G, E, B, R</kitColors>
@@ -25,7 +25,7 @@
 			<image>VPI06.jpg</image>
             <popup>
               <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VP00R-1L or VP00R-10 remotes</multiLocationControl>
-              <deviceColors>Z</deviceColors>
+              <deviceColors>Z, T</deviceColors>
               <neutralRequired>No</neutralRequired>
               <colorKits>VPKIT-MD, VPKIT-CD</colorKits>             
               <kitColors>W, I, T, G, E, B, R</kitColors>
@@ -44,7 +44,7 @@
             <title>VPF01-1L</title>
 			<image>VPI06.jpg</image>
             <popup>
-              <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location control with VP00R-1L or VP00R-10 remotes</multiLocationControl>
+              <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VP00R-1L or VP00R-10 remotes</multiLocationControl>
               <deviceColors>Z</deviceColors>
               <neutralRequired>Yes</neutralRequired>
               <colorKits>VPKIT-MD, VPKIT-CD</colorKits>             
@@ -106,7 +106,7 @@
             <title>VRF01-1L</title>
 			<image>VPI06.jpg</image>
             <popup>
-              <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location control with VRCZ1-1L,            VP00R-1L or VP00R-10 remotes</multiLocationControl>
+              <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VRCZ1-1L,            VP00R-1L or VP00R-10 remotes</multiLocationControl>
               <deviceColors>Z</deviceColors>
               <neutralRequired>Yes</neutralRequired>
               <colorKits>VPKIT-MD</colorKits>             
@@ -264,7 +264,7 @@
           <product type="Incandescent600W">
             <title>RPI06-1L</title>
             <title>RPI06-10</title>			
-			<image>RPI06-1O.jpg</image>         
+			<image>RPI06-1L.jpg</image>         
             <popup>
               <multiLocationControl>Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
               <deviceColors>Z</deviceColors>

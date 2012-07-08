@@ -13,7 +13,7 @@
 			<image>VPI06.jpg</image>
             <popup>
               <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VP00R-1L or VP00R-10 remotes</multiLocationControl>
-              <deviceColors>Z</deviceColors>
+              <deviceColors>Z, T</deviceColors>
               <neutralRequired>Yes</neutralRequired>
               <colorKits>VPKIT-MD, VPKIT-CD</colorKits>             
               <kitColors>W, I, T, G, E, B, R</kitColors>
@@ -31,7 +31,7 @@
 			<image>VPI06.jpg</image>
             <popup>
               <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VP00R-1L or VP00R-10 remotes</multiLocationControl>
-              <deviceColors>Z</deviceColors>
+              <deviceColors>Z, T</deviceColors>
               <neutralRequired>Yes</neutralRequired>
               <colorKits>VPKIT-MD, VPKIT-CD</colorKits>             
               <kitColors>W, I, T, G, E, B, R</kitColors>

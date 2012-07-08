@@ -45,7 +45,7 @@
             <image>VPI06.jpg</image>
 			<popup>
               <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VP00R-1L or VP00R-10 remotes</multiLocationControl>
-              <deviceColors>Z, T</deviceColors>
+              <deviceColors>Z</deviceColors>
               <neutralRequired>Yes</neutralRequired>
               <colorKits>VPKIT-MD, VPKIT-CD</colorKits>             
               <kitColors>W, I, T, G, E, B, R</kitColors>
@@ -57,7 +57,7 @@
 			<image>VPI06.jpg</image>
             <popup>
               <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VP00R-1L or VP00R-10 remotes</multiLocationControl>
-              <deviceColors>Z, T</deviceColors>
+              <deviceColors>Z</deviceColors>
               <neutralRequired>Yes</neutralRequired>
               <colorKits>VPKIT-MD, VPKIT-CD</colorKits>             
               <kitColors>W, I, T, G, E, B, R</kitColors>
@@ -69,7 +69,7 @@
             <image>VPI06.jpg</image>
 			<popup>
               <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VP00R-1L or VP00R-10 remotes</multiLocationControl>
-              <deviceColors>Z, T</deviceColors>
+              <deviceColors>Z</deviceColors>
               <neutralRequired>No</neutralRequired>
               <colorKits>VPKIT-MD, VPKIT-CD</colorKits>             
               <kitColors>W, I, T, G, E, B, R</kitColors>
@@ -81,7 +81,7 @@
 			<image>VPI06.jpg</image>
             <popup>
               <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VP00R-1L or VP00R-10 remotes</multiLocationControl>
-              <deviceColors>Z, T</deviceColors>
+              <deviceColors>Z</deviceColors>
               <neutralRequired>No</neutralRequired>
               <colorKits>VPKIT-MD, VPKIT-CD</colorKits>             
               <kitColors>W, I, T, G, E, B, R</kitColors>
@@ -157,7 +157,7 @@
             <title>VRE06-1L</title>
             <image>VPI06.jpg</image>
 			<popup>
-              <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VRCZ1-1L, VP00R-1L or VP00R-10 remotes</multiLocationControl>
+              <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VRCZ1-1L,              VP00R-1L or VP00R-10 remotes</multiLocationControl>
               <deviceColors>Z</deviceColors>
               <neutralRequired>Yes</neutralRequired>
               <colorKits>VPKIT-MD</colorKits>             
@@ -169,7 +169,7 @@
             <title>VRMX1-1L</title>
 			<image>VPI06.jpg</image>
             <popup>
-              <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VRCZ1-1L, VP00R-1L or VP00R-10 remotes</multiLocationControl>
+              <multiLocationControl>Digital circuitry provides Single Pole, 3-way or Multi-Location dimming with VRCZ1-1L,             VP00R-1L or VP00R-10 remotes</multiLocationControl>
               <deviceColors>Z</deviceColors>
               <neutralRequired>Yes</neutralRequired>
               <colorKits>VPKIT-MD</colorKits>             
@@ -241,10 +241,10 @@
               <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
             </popup>
           </product>
-          <product type="MagneticLowVoltage1500VA">
+          <!--product type="MagneticLowVoltage1500VA">
             <title>star</title>
 			<image>TTI06.jpg</image>
-          </product>
+          </product-->
         </productCategory>
 
         <productCategory category="ToggleTouch®">
@@ -294,7 +294,7 @@
 
         </productCategory>
 
-        <productCategory category="IllumaTech Slide®">
+        <productCategory category="IllumaTech® Slide">
           
           <!--product type="Incandescent600W">
             <title>IPI06-1L</title>
@@ -338,7 +338,7 @@
           </product-->
           <product type="LEDandCFL150W">
             <title>IPL06-10</title>
-			<image>IPI06.jpg</image>
+			<image>IPI06_led.jpg</image>
             <popup>
               <multiLocationControl>Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
               <deviceColors>Z</deviceColors>
@@ -350,7 +350,7 @@
           </product>
           <product type="ElectronicLowVoltage400VA">
             <title>IPE04-1L</title>
-			<image>IPI06.jpg</image>
+			<image>IPI06_led.jpg</image>
             <popup>
               <multiLocationControl>Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
               <deviceColors>Z</deviceColors>
@@ -360,9 +360,9 @@
               <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
             </popup>            
           </product>
-          <product type="MagneticLowVoltage600VA">
+          <product type="MagneticLowVoltage">
             <title>IPM06-1L</title>
-			<image>IPI06.jpg</image>
+			<image>IPI06_led.jpg</image>
             <popup>
               <multiLocationControl>Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
               <deviceColors>Z</deviceColors>
@@ -374,7 +374,7 @@
           </product>
           <product type="MagneticLowVoltage1000VA">
             <title>IPM10-1L</title>
-			<image>IPI06.jpg</image>
+			<image>IPI06_led.jpg</image>
             <popup>
               <multiLocationControl>Single Pole or 3-way control when used with 3-way switch</multiLocationControl>
               <deviceColors>Z</deviceColors>
@@ -384,10 +384,10 @@
               <wallplatesType>Decora screwless or Decora standard, sold separately</wallplatesType>             
             </popup>
           </product>
-          <product type="MagneticLowVoltage1500VA">
+          <!--product type="MagneticLowVoltage1500VA">
             <title>star</title>
 			<image>IPI06.jpg</image>
-          </product>
+          </product-->
           <!--product type="FanSpeedControlQuiet15Amp">
             <title>IPF01-1L</title>
 			<image>IPI06.jpg</image>
@@ -415,7 +415,7 @@
 
         </productCategory>
 
-        <productCategory category="IllumaTech Rotary®">
+        <productCategory category="IllumaTech® Rotary">
           
           <!--product type="Incandescent600W">
             <title>RPI06-1L</title>
@@ -449,18 +449,18 @@
           <title>star</title>
 		  <image>RPI06-1L.jpg</image>
         </product-->
-        <product type="MagneticLowVoltage600VA">
+        <!--product type="MagneticLowVoltage600VA">
           <title>star</title>
 		  <image>RPI06-1L.jpg</image>
-        </product>
-        <product type="MagneticLowVoltage1000VA">
+        </product-->
+        <!--product type="MagneticLowVoltage1000VA">
           <title>star</title>
 		  <image>6602.jpg</image>
-        </product>
-        <product type="MagneticLowVoltage1500VA">
+        </product-->
+        <!--product type="MagneticLowVoltage1500VA">
           <title>star</title>
 		  <image>RPI06-1L.jpg</image>
-        </product>
+        </product-->
         <!--product type="FanSpeedControl15AmpAndDimmer300W">
           <title>RTD01-10</title>
 		  <image>RTD01-10.jpg</image>
@@ -570,10 +570,10 @@
             <wallplatesType>Decora screwless or Decora standard, sold separately </wallplatesType>             
           </popup>          
         </product>
-        <product type="MagneticLowVoltage1500VA">
+        <!--product type="MagneticLowVoltage1500VA">
           <title>star</title>
 		  <image>6631-L.jpg</image>
-        </product>  
+        </product-->  
         <!--product type="FanSpeedControlQuiet15Amp">
           <title>6629-3</title>
 		  <image>6633-PL.jpg</image>
@@ -662,18 +662,18 @@
           <title>star</title>
 		  <image>6602.jpg</image>
         </product-->
-        <product type="MagneticLowVoltage600VA">
+        <!--product type="MagneticLowVoltage600VA">
           <title>star</title>
 		  <image>6602.jpg</image>
-        </product>
-        <product type="MagneticLowVoltage1000VA">
+        </product-->
+        <!--product type="MagneticLowVoltage1000VA">
           <title>star</title>
 		  <image>6602.jpg</image>
-        </product>
-        <product type="MagneticLowVoltage1500VA">
+        </product-->
+        <!--product type="MagneticLowVoltage1500VA">
           <title>star</title>
 		  <image>6602.jpg</image>
-        </product>         
+        </product-->         
         <!--product type="FanSpeedControlQuiet15Amp">
           <title>6639</title>
 		  <image>6602.jpg</image>
