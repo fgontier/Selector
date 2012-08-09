@@ -399,11 +399,11 @@ Switch for Single Pole Applications</comments>
         <spec type="title">4-Button Controllers</spec>
        	<spec type="4ButtonSceneController120VAC">Scene Controller 120VAC</spec>
        	<spec type="4ButtonZoneController120VAC">Zone Controller 120VAC</spec>						
-       	<spec type="4ButtonSceneComboController1800W1800VA">Scene Combo Controller 1800W/1800VA, 1/2HPC</spec>		
-       	<spec type="4ButtonZoneController1800W1800VA">Zone Combo Controller 1800W/1800VA, 1/2HPC</spec>						
+       	<spec type="4ButtonSceneComboController1800W1800VA">Scene Combo Controller 1800W/1800VA, 1/2HP</spec>		
+       	<spec type="4ButtonZoneController1800W1800VA">Zone Combo Controller 1800W/1800VA, 1/2HP</spec>						
 		<spec type="spacer"></spec>
         <spec type="title">2-Button Controller</spec>
-       	<spec type="2ButtonSceneController1000W1000VA">Scene Controller 1000W/1000VA 1/4HP / switch</spec>
+       	<spec type="2ButtonSceneController1000W1000VA">Scene Controller 1000W/1000VA 1/4HP per switch</spec>
 		<spec type="spacer"></spec>				
         <spec type="title">1-Button Controllers</spec>
        	<spec type="1ButtonSceneController120VAC">Scene Controller 120VAC</spec>						
